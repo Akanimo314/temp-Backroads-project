@@ -3,6 +3,7 @@ import img2 from './images/tour-2.jpeg';
 import img3 from './images/tour-3.jpeg';
 import img4 from './images/tour-4.jpeg';
 import img5 from './images/tour-5.jpeg';
+import img6 from './images/tour-6.jpeg';
 
 
 export const navlink = [
@@ -74,4 +75,12 @@ export const tourLink = [
     location: 'Nigeria',
     duration: '30 days',
     cost: 'from $4000'},
+    {id: 5,
+    img: img6, 
+    date: 'december 5th, 2023',
+    title: 'Ghana highlights',
+    info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quodexercitationem fugit, qui corporis.',
+    location: 'Ghana',
+    duration: '50 days',
+    cost: 'from $5000'},
 ]
